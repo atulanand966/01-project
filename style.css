@@ -4,3 +4,9 @@ h1 {
   font-family: sans-serif;
   font-size: 16px;
 }
+
+.intro {
+  text-align: center;
+  border-left: royalblue;
+  border-width: 10px;
+}
