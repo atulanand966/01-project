@@ -7,6 +7,11 @@ h1 {
 
 .intro {
   text-align: center;
-  border-left: royalblue;
-  border-width: 10px;
+  color: cornflowerblue;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+hr {
+  width: 50%;
 }
